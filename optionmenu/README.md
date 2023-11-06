@@ -99,3 +99,5 @@ Emulator:
 
 ## RESULT
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
+
+
